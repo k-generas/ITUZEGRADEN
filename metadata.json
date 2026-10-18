@@ -1,0 +1,8 @@
+{
+  "name": "Ituze Garden | Event & Wedding Venues in Kigali",
+  "description": "Simply unique, distinctive, and inexpensive event hosting and wedding management in Kimironko and Masaka, Kigali, Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
