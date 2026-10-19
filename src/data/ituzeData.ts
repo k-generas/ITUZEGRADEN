@@ -79,7 +79,7 @@ export const ITUZE_BRANCHES: Branch[] = [
       events: 'Daily: Available until 12:00 Midnight'
     },
     capacity: '20 to 500 Guests',
-    heroImage: '/src/assets/images/hero_ituze_garden_kigali_1792189320590.jpg',
+    heroImage: '/images/ituze/hero_ituze_garden_kigali.jpg',
     galleryImages: [
       '/images/ituze/ituze_garden_main.jpg',
       '/images/ituze/ituze_lawn_walkway.jpg',
@@ -130,10 +130,10 @@ export const ITUZE_BRANCHES: Branch[] = [
       events: '24/7 Extended celebration and overnight retreat capabilities'
     },
     capacity: '50 to 600+ Guests',
-    heroImage: '/src/assets/images/masaka_palace_retreat_1792189321142.jpg',
+    heroImage: '/images/ituze/masaka_palace_retreat.jpg',
     galleryImages: [
-      '/src/assets/images/masaka_palace_retreat_1792189321142.jpg',
-      '/src/assets/images/garden_wedding_ceremony_1792189322567.jpg',
+      '/images/ituze/masaka_palace_retreat.jpg',
+      '/images/ituze/garden_wedding_ceremony.jpg',
       '/images/ituze/ituze_garden_panoramic.jpg',
       '/images/ituze/ituze_lawn_evening.jpg'
     ],
@@ -167,7 +167,7 @@ export const ITUZE_SERVICES: ServiceCategory[] = [
     number: '01',
     title: 'Venue Hire & Space Rental',
     summary: 'Picturesque manicured outdoor lawns and weather-proof indoor halls configured for seamless gatherings.',
-    image: '/src/assets/images/garden_wedding_ceremony_1792189322567.jpg',
+    image: '/images/ituze/garden_wedding_ceremony.jpg',
     items: [
       {
         name: 'The Lawns & Botanical Gardens',
@@ -188,7 +188,7 @@ export const ITUZE_SERVICES: ServiceCategory[] = [
     number: '02',
     title: 'Event Planning & Coordination',
     summary: 'End-to-end management led by experienced Rwandan event coordinators who handle every logistical milestone.',
-    image: '/src/assets/images/indoor_banquet_hall_1792189321550.jpg',
+    image: '/images/ituze/indoor_banquet_hall.jpg',
     items: [
       {
         name: 'Full Social Celebration Management',
@@ -242,7 +242,7 @@ export const ITUZE_GALLERY: GalleryPhoto[] = [
     title: 'Grand Kigali Garden Venue Panorama',
     category: 'wedding',
     branch: 'Both',
-    src: '/src/assets/images/hero_ituze_garden_kigali_1792189320590.jpg',
+    src: '/images/ituze/hero_ituze_garden_kigali.jpg',
     description: 'Aerial vista of an outdoor Rwandan wedding reception surrounded by green hills.',
     isAuthenticArchive: false
   },
@@ -251,7 +251,7 @@ export const ITUZE_GALLERY: GalleryPhoto[] = [
     title: 'Outdoor Wedding Ceremony Setup',
     category: 'wedding',
     branch: 'Masaka',
-    src: '/src/assets/images/garden_wedding_ceremony_1792189322567.jpg',
+    src: '/images/ituze/garden_wedding_ceremony.jpg',
     description: 'Wooden floral arch with pristine white guest seating overlooking Rwandan valleys.',
     isAuthenticArchive: false
   },
@@ -260,7 +260,7 @@ export const ITUZE_GALLERY: GalleryPhoto[] = [
     title: 'Masaka Palace Retreat & Playgrounds',
     category: 'masaka',
     branch: 'Masaka',
-    src: '/src/assets/images/masaka_palace_retreat_1792189321142.jpg',
+    src: '/images/ituze/masaka_palace_retreat.jpg',
     description: 'Country estate grounds featuring shade trees, guest accommodations, and play areas.',
     isAuthenticArchive: false
   },
@@ -269,7 +269,7 @@ export const ITUZE_GALLERY: GalleryPhoto[] = [
     title: 'Indoor Banquet Hall & Draped Ceiling',
     category: 'hall',
     branch: 'Kimironko',
-    src: '/src/assets/images/indoor_banquet_hall_1792189321550.jpg',
+    src: '/images/ituze/indoor_banquet_hall.jpg',
     description: 'Chic indoor hall with flowing white draping, chandelier lighting, and formal dinner tables.',
     isAuthenticArchive: false
   },

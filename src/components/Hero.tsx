@@ -71,7 +71,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreLocations, onOpenCalculator
           <div className="lg:col-span-7">
             <div className="relative rounded-2xl overflow-hidden shadow-xl border border-stone-200/80 bg-stone-100 group">
               <img
-                src="/src/assets/images/hero_ituze_garden_kigali_1792189320590.jpg"
+                src="/images/ituze/hero_ituze_garden_kigali.jpg"
                 alt="Panoramic view of Ituze Garden outdoor event venue with wedding reception tents and manicured lawn overlooking Kigali hills"
                 referrerPolicy="no-referrer"
                 className="w-full h-[360px] sm:h-[460px] lg:h-[500px] object-cover transition-transform duration-700 group-hover:scale-102"
